@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 import 'apod.dart';
-import 'strings.dart';
 
 class APODState extends State<APODWidget> {
   Apod apod;
@@ -18,9 +17,6 @@ class APODState extends State<APODWidget> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-        appBar: new AppBar(
-          title: new Text(Strings.appBarTitle),
-        ),
         body: new Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
