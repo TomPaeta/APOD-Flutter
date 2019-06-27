@@ -22,7 +22,11 @@ class APODState extends State<APODWidget> {
             children: [
               new Text(apod.title),
               new Image.network(apod.url),
-              new Text(apod.explanation)
+              new Text(apod.explanation),
+              new IconButton(icon: Icon(Icons.favorite),
+              onPressed: () {
+                // Do something
+              },)
             ]));
   }
 

@@ -1,4 +1,4 @@
-#Wed Jun 26 18:41:36 EDT 2019
+#Wed Jun 26 18:52:42 EDT 2019
 base.0=/Users/suzypaeta/Documents/Projects/APOD-Flutter/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
