@@ -5,6 +5,8 @@ INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/m
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:sqflite] /Users/suzypaeta/Documents/Projects/APOD-Flutter/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/suzypaeta/Documents/Projects/APOD-Flutter/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -64,6 +66,10 @@ uses-sdk
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:sqflite] /Users/suzypaeta/Documents/Projects/APOD-Flutter/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/suzypaeta/Documents/Projects/APOD-Flutter/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/suzypaeta/Documents/Projects/APOD-Flutter/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/suzypaeta/Documents/Projects/APOD-Flutter/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/suzypaeta/Documents/Projects/APOD-Flutter/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion

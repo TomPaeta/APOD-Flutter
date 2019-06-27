@@ -1,0 +1,4 @@
+com.tom.flutter_app_first
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme

@@ -1,19 +1,18 @@
 import 'package:flutter/material.dart';
-import 'strings.dart';
+
 import 'apodwidget.dart';
 import 'favoriteswidget.dart';
+import 'strings.dart';
 
 void main() => runApp(APODFlutter());
 
 class APODFlutter extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
         title: Strings.appTitle,
         theme: new ThemeData(primaryColor: Colors.blueAccent.shade100),
-        home: new HomePage(title: Strings.appTitle)
-    );
+        home: new HomePage(title: Strings.appTitle));
   }
 }
 
@@ -45,10 +44,10 @@ class HomePage extends StatelessWidget {
               subtitle: Text('Your favorites pictures'),
               onTap: () {
                 Navigator.pop(context);
-                Navigator.of(context).push(new MaterialPageRoute(
-                    builder: (BuildContext context) {
-                      return new FavoriteWidget();
-                    }));
+                Navigator.of(context).push(
+                    new MaterialPageRoute(builder: (BuildContext context) {
+                  return new FavoriteWidget();
+                }));
               },
             )
           ],
